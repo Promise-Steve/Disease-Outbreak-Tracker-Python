@@ -167,7 +167,7 @@ The project concludes with a bonus challenge that analyses another disease outbr
 This demonstrates code reusability and reinforces Python programming concepts.
 
 <p align="center">
-<img src="./screenshots/Bonus_challenge.png" width="900">
+<img src="./screenshots/Bonus_Challenge.png" width="900">
 </p>
 
 ---
