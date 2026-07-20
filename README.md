@@ -1,6 +1,6 @@
 # Disease Outbreak Tracker using Python
 <p align="center">
-<img src="./screenshots/final-report.png" width="700">
+<img src="./screenshots/final-report.png" width="300">
 </p>
 
 
