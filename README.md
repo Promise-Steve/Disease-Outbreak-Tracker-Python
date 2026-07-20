@@ -1,4 +1,4 @@
-# 🦠 Disease Outbreak Tracker
+# Disease Outbreak Tracker
 
 > A Python-based disease outbreak tracking application that simulates disease surveillance, calculates key epidemiological metrics, and supports emergency response decision-making.
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 📖 Project Overview
+## Project Overview
 
 Disease surveillance plays a critical role in public health by enabling health professionals to monitor disease trends and make timely intervention decisions. This project demonstrates how Python can be applied to basic outbreak monitoring through the calculation of active cases, recovery rates, outbreak severity, and emergency response indicators.
 
@@ -16,7 +16,7 @@ The project was developed as part of my journey in learning Python for **Data An
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents
 
 - [Features](#-features)
 - [Technologies Used](#-technologies-used)
@@ -29,19 +29,19 @@ The project was developed as part of my journey in learning Python for **Data An
 
 ---
 
-## ✨ Features
+## Features
 
-- 📊 Tracks reported disease cases, recoveries, and deaths
-- 🧮 Calculates active disease cases
-- 📈 Computes recovery rates
-- 🏥 Monitors hospital isolation bed availability
-- 🚨 Determines whether emergency intervention is required
-- ⚠️ Assesses outbreak severity using conditional logic
-- 📋 Generates an outbreak summary report
+-  Tracks reported disease cases, recoveries, and deaths
+-  Calculates active disease cases
+-  Computes recovery rates
+-  Monitors hospital isolation bed availability
+-  Determines whether emergency intervention is required
+-  Assesses outbreak severity using conditional logic
+-  Generates an outbreak summary report
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 | Technology | Purpose |
 |------------|---------|
@@ -51,7 +51,7 @@ The project was developed as part of my journey in learning Python for **Data An
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Disease-Outbreak-Tracker-Python/
@@ -74,7 +74,7 @@ Disease-Outbreak-Tracker-Python/
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ### Project Overview
 
@@ -106,7 +106,7 @@ Disease-Outbreak-Tracker-Python/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -147,7 +147,7 @@ Run all cells to execute the project.
 
 ---
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 
 Through this project, I strengthened my understanding of:
 
@@ -162,12 +162,12 @@ Through this project, I strengthened my understanding of:
 
 ---
 
-## 📈 Future Improvements
+##  Future Improvements
 
 Planned enhancements include:
 
 - Interactive dashboard using Streamlit
-- Data visualization with Matplotlib
+- Data visualisation with Matplotlib
 - CSV and Excel data import
 - Real-time disease surveillance integration
 - Geographic outbreak mapping
@@ -177,7 +177,7 @@ Planned enhancements include:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Promise Somtochukwu Chukwuemeka**
 
@@ -185,11 +185,11 @@ Public Health Researcher | Data Analytics Enthusiast | Health Informatics Learne
 
 ### Connect with Me
 
-- LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN-USERNAME
-- GitHub: https://github.com/YOUR-GITHUB-USERNAME
+- LinkedIn: https://www.linkedin.com/in/somtochukwu-chukwuemeka-57b690268
+- GitHub: https://github.com/Promise-Steve
 
 ---
 
-## ⭐ Support
+##  Support
 
 If you found this project useful or interesting, consider giving it a ⭐ on GitHub. Feedback and suggestions are always welcome!
