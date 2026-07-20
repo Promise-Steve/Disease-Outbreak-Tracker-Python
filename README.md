@@ -8,7 +8,7 @@
 
 ---
 
-# 📖 Overview
+# Overview
 
 This project simulates a disease outbreak monitoring system using Python.
 
@@ -18,7 +18,7 @@ The project was built to strengthen my understanding of Python fundamentals whil
 
 ---
 
-# ✨ Features
+# Features
 
 ✅ Store outbreak information
 
@@ -38,14 +38,14 @@ The project was built to strengthen my understanding of Python fundamentals whil
 
 ---
 
-# 🛠 Technologies
+# Technologies
 
 - Python
 - Jupyter Notebook
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```
 Disease-Outbreak-Tracker-Python/
@@ -67,11 +67,11 @@ Disease-Outbreak-Tracker-Python/
 
 ---
 
-# 📸 Project Walkthrough
+# Project Walkthrough
 
 ---
 
-## 1️⃣ Creating Disease Variables
+## 1️. Creating Disease Variables
 
 The project begins by creating outbreak variables using appropriate Python data types.
 
@@ -81,7 +81,7 @@ The project begins by creating outbreak variables using appropriate Python data 
 
 ---
 
-## 2️⃣ Calculating Active Cases
+## 2️. Calculating Active Cases
 
 Active cases are calculated by subtracting recovered patients and deaths from the total reported cases.
 
@@ -92,22 +92,22 @@ Active Cases = Total Cases − Recovered Patients − Deaths
 ```
 
 <p align="center">
-<img src="./screenshots/active-cases.png" width="900">
+<img src="./screenshots/Active-cases.png" width="900">
 </p>
 
 ---
 
-## 3️⃣ Disease Outbreak Data
+## 3️. Disease Outbreak Data
 
 The application stores outbreak information including disease name, state, total cases, new cases, recoveries, deaths and available hospital beds.
 
 <p align="center">
-<img src="./screenshots/outbreak-data.png" width="900">
+<img src="./screenshots/Outbreak-data.png" width="900">
 </p>
 
 ---
 
-## 4️⃣ Severity Assessment
+## 4️. Severity Assessment
 
 The system determines whether the outbreak is severe using conditional statements and Boolean logic.
 
@@ -119,7 +119,7 @@ It also evaluates if emergency response should be activated.
 
 ---
 
-## 5️⃣ Final Disease Report
+## 5️. Final Disease Report
 
 After completing all calculations, the system generates a structured outbreak report.
 
@@ -140,7 +140,7 @@ The report contains:
 
 ---
 
-## 6️⃣ Comparative Outbreak Analysis
+## 6️. Comparative Outbreak Analysis
 
 The notebook compares outbreaks across multiple locations and answers analytical questions such as:
 
@@ -151,7 +151,7 @@ The notebook compares outbreaks across multiple locations and answers analytical
 - Which outbreak is more stable?
 
 <p align="center">
-<img src="./screenshots/comparative-analysis.png" width="900">
+<img src="./screenshots/Comparative-analysis.png" width="900">
 </p>
 
 ---
@@ -163,7 +163,7 @@ The project concludes with a bonus challenge that analyses another disease outbr
 This demonstrates code reusability and reinforces Python programming concepts.
 
 <p align="center">
-<img src="./screenshots/bonus-challenge.png" width="900">
+<img src="./screenshots/Bonus-challenge.png" width="900">
 </p>
 
 ---
