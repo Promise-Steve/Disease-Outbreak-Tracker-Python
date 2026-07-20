@@ -1,6 +1,6 @@
 # Disease Outbreak Tracker using Python
 <p align="center">
-<img src="./screenshots/final-report.png" width="400">
+<img src="./screenshots/final-report.png" width="800" height="300">
 </p>
 
 
@@ -80,7 +80,7 @@ Disease-Outbreak-Tracker-Python/
 The project begins by creating outbreak variables using appropriate Python data types.
 
 <p align="center">
-<img src="./screenshots/project_overview.png" width="600">
+<img src="./screenshots/project_overview.png" width="800">
 </p>
 
 ---
@@ -96,7 +96,7 @@ Active Cases = Total Cases − Recovered Patients − Deaths
 ```
 
 <p align="center">
-<img src="./screenshots/Active_cases.png" width="600">
+<img src="./screenshots/Active_cases.png" width="800">
 </p>
 
 ---
@@ -106,7 +106,7 @@ Active Cases = Total Cases − Recovered Patients − Deaths
 The application stores outbreak information including disease name, state, total cases, new cases, recoveries, deaths and available hospital beds.
 
 <p align="center">
-<img src="./screenshots/Outbreak-data.png" width="600">
+<img src="./screenshots/Outbreak-data.png" width="800">
 </p>
 
 ---
@@ -118,7 +118,7 @@ The system determines whether the outbreak is severe using conditional statement
 It also evaluates if emergency response should be activated.
 
 <p align="center">
-<img src="./screenshots/severity-analysis.png" width="600">
+<img src="./screenshots/severity-analysis.png" width="800">
 </p>
 
 ---
@@ -139,7 +139,7 @@ The report contains:
 - Situation Assessment
 
 <p align="center">
-<img src="./screenshots/final-report.png" width="500">
+<img src="./screenshots/final-report.png" width="700">
 </p>
 
 ---
@@ -155,7 +155,7 @@ The notebook compares outbreaks across multiple locations and answers analytical
 - Which outbreak is more stable?
 
 <p align="center">
-<img src="./screenshots/Comparative-analysis.png" width="600">
+<img src="./screenshots/Comparative-analysis.png" width="800">
 </p>
 
 ---
@@ -167,7 +167,7 @@ The project concludes with a bonus challenge that analyses another disease outbr
 This demonstrates code reusability and reinforces Python programming concepts.
 
 <p align="center">
-<img src="./screenshots/Bonus-challenge.png" width="600">
+<img src="./screenshots/Bonus_challenge.png" width="700">
 </p>
 
 ---
