@@ -1,138 +1,176 @@
-# Disease Outbreak Tracker
+# 🦠 Disease Outbreak Tracker using Python
 
-> A Python-based disease outbreak tracking application that simulates disease surveillance, calculates key epidemiological metrics, and supports emergency response decision-making.
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
-![License](https://img.shields.io/badge/License-MIT-green)
-
----
-
-## Project Overview
-![Project Overview](screenshots/project-overview.png)
-
-Disease surveillance plays a critical role in public health by enabling health professionals to monitor disease trends and make timely intervention decisions. This project demonstrates how Python can be applied to basic outbreak monitoring through the calculation of active cases, recovery rates, outbreak severity, and emergency response indicators.
-
-The project was developed as part of my journey in learning Python for **Data Analytics**, **Public Health**, **Epidemiology**, and **Health Informatics**.
+A beginner-friendly Python project that simulates a real-world disease outbreak monitoring system. The project demonstrates how Python can be used to calculate outbreak statistics, assess disease severity, evaluate hospital capacity, and generate structured epidemiological reports.
 
 ---
 
-## Table of Contents
+# 📖 Project Overview
 
-- [Features](#-features)
-- [Technologies Used](#-technologies-used)
-- [Project Structure](#-project-structure)
-- [Screenshots](#-screenshots)
-- [Getting Started](#-getting-started)
-- [Learning Outcomes](#-learning-outcomes)
-- [Future Improvements](#-future-improvements)
-- [Author](#-author)
+Disease surveillance plays a vital role in public health by helping health authorities monitor disease spread and make timely intervention decisions.
 
----
+This project simulates a simple outbreak monitoring system using Python fundamentals. It performs calculations, evaluates outbreak conditions, and generates an easy-to-read outbreak report.
 
-## Features
+The project demonstrates practical use of:
 
--  Tracks reported disease cases, recoveries, and deaths
--  Calculates active disease cases
--  Computes recovery rates
--  Monitors hospital isolation bed availability
--  Determines whether emergency intervention is required
--  Assesses outbreak severity using conditional logic
--  Generates an outbreak summary report
+- Variables
+- Data Types
+- Arithmetic Operators
+- Comparison Operators
+- Logical Operators
+- Boolean Values
+- Conditional Statements
+- Python Output Formatting
 
 ---
 
-##  Technologies Used
+# ✨ Features
 
-| Technology | Purpose |
-|------------|---------|
-| Python | Programming Language |
-| Jupyter Notebook | Development Environment |
-| Built-in Python Functions | Data Processing and Calculations |
+- Store outbreak information
+- Calculate active cases
+- Calculate recovery rate
+- Assess hospital bed capacity
+- Determine outbreak severity
+- Recommend emergency response
+- Generate a complete outbreak report
+- Bonus challenge with another outbreak scenario
 
 ---
 
-##  Project Structure
+# 🛠 Technologies Used
+
+- Python 3
+- Jupyter Notebook
+
+---
+
+# 📂 Project Structure
 
 ```
 Disease-Outbreak-Tracker-Python/
 │
+├── Disease_Outbreak_Tracker.ipynb
 ├── README.md
 ├── LICENSE
 ├── requirements.txt
-├── Disease_Outbreak_Tracker.ipynb
 │
 ├── screenshots/
-│   ├── project-overview.png
+│   ├── project_overview.png
 │   ├── outbreak-data.png
 │   ├── active-cases.png
 │   ├── severity-analysis.png
-│   └── final-report.png
-│
-└── assets/
-    └── cover.png
+│   ├── final-report.png
+│   └── bonus-challenge.png
 ```
 
 ---
 
-##  Screenshots
+# 📸 Project Walkthrough
 
-### Project Overview
+## 1. Project Overview
 
-![Project Overview](screenshots/project-overview.png)
+The notebook introduces the outbreak monitoring system and the objectives of the project.
 
----
-
-### Disease Data
-
-![Disease Data](screenshots/outbreak-data.png)
+<p align="center">
+<img src="screenshots/project_overview.png" width="900">
+</p>
 
 ---
 
-### Active Case Calculation
+## 2. Creating Outbreak Data
 
-![Active Cases](screenshots/active-cases.png)
+The outbreak information is stored using appropriate Python data types such as strings, integers, floating-point numbers, and Boolean values.
 
----
-
-### Outbreak Severity Assessment
-
-![Outbreak Severity](screenshots/severity-analysis.png)
+<p align="center">
+<img src="screenshots/outbreak-data.png" width="900">
+</p>
 
 ---
 
-### Final Report
+## 3. Active Case Calculation
 
-![Final Report](screenshots/final-report.png)
+The system calculates the number of active cases.
+
+### Formula
+
+```
+Active Cases = Total Cases − Recoveries − Deaths
+```
+
+<p align="center">
+<img src="screenshots/active-cases.png" width="900">
+</p>
 
 ---
 
-##  Getting Started
+## 4. Outbreak Severity Analysis
 
-### Prerequisites
+Conditional statements and Boolean logic are used to determine whether the outbreak is severe and if emergency intervention is required.
 
-- Python 3.x
-- Jupyter Notebook
+<p align="center">
+<img src="screenshots/severity-analysis.png" width="900">
+</p>
 
-### Clone the Repository
+---
+
+## 5. Final Disease Outbreak Report
+
+After performing all calculations, the application generates a complete outbreak summary.
+
+<p align="center">
+<img src="screenshots/final-report.png" width="700">
+</p>
+
+The report includes:
+
+- Disease Name
+- State
+- Total Cases
+- Recoveries
+- Deaths
+- Active Cases
+- Recovery Rate
+- Hospital Capacity
+- Emergency Status
+- Outbreak Severity
+- Overall Situation Assessment
+
+---
+
+## ⭐ Bonus Challenge
+
+To reinforce Python concepts, the project was extended to analyse another disease outbreak using a different dataset. This demonstrates code reusability and logical decision-making.
+
+<p align="center">
+<img src="screenshots/bonus-challenge.png" width="900">
+</p>
+
+---
+
+# 🚀 Getting Started
+
+Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/Disease-Outbreak-Tracker-Python.git
+git clone https://github.com/yourusername/Disease-Outbreak-Tracker-Python.git
 ```
 
-### Navigate into the Project
+Navigate into the project folder
 
 ```bash
 cd Disease-Outbreak-Tracker-Python
 ```
 
-### Install Dependencies
+Install the requirements
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### Launch Jupyter Notebook
+Launch Jupyter Notebook
 
 ```bash
 jupyter notebook
@@ -144,53 +182,51 @@ Open:
 Disease_Outbreak_Tracker.ipynb
 ```
 
-Run all cells to execute the project.
-
 ---
 
-##  Learning Outcomes
+# 🎯 Learning Outcomes
 
-Through this project, I strengthened my understanding of:
+This project strengthened my understanding of:
 
-- Python programming fundamentals
-- Variables and data types
+- Python variables and data types
 - Arithmetic operations
-- Conditional statements
 - Boolean logic
-- Basic epidemiological calculations
-- Disease surveillance concepts
-- Public health data analysis
+- Conditional statements
+- Problem-solving with Python
+- Writing readable and maintainable code
+- Building beginner-friendly data projects
 
 ---
 
-##  Future Improvements
+# 🔮 Future Improvements
 
-Planned enhancements include:
+Possible enhancements include:
 
-- Interactive dashboard using Streamlit
-- Data visualisation with Matplotlib
-- CSV and Excel data import
-- Real-time disease surveillance integration
-- Geographic outbreak mapping
-- Trend analysis and forecasting
-- Database integration with SQL
-- Deployment as a web application
+- Reading outbreak data from CSV files
+- Visualizing outbreak trends using Matplotlib
+- Supporting multiple diseases simultaneously
+- Interactive user input
+- Building a web dashboard using Streamlit
+- Exporting reports to PDF
 
 ---
 
-##  Author
+# 👨‍💻 Author
 
-**Promise Somtochukwu Chukwuemeka**
+**Somtochukwu Promise Chukwuemeka**
 
-Public Health Researcher | Data Analytics Enthusiast | Health Informatics Learner
+Public Health Professional • Data Analyst • Python Enthusiast
 
-### Connect with Me
+LinkedIn:
+> Add your LinkedIn profile here
 
-- LinkedIn: https://www.linkedin.com/in/somtochukwu-chukwuemeka-57b690268
-- GitHub: https://github.com/Promise-Steve
+GitHub:
+> Add your GitHub profile here
 
 ---
 
-##  Support
+# ⭐ Support
 
-If you found this project useful or interesting, consider giving it a ⭐ on GitHub. Feedback and suggestions are always welcome!
+If you found this project helpful, please consider giving it a ⭐ on GitHub.
+
+It motivates me to continue building and sharing more data analysis and public health projects.
