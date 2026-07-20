@@ -1,4 +1,4 @@
-# 🦠 Disease Outbreak Tracker using Python
+# Disease Outbreak Tracker using Python
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python">
@@ -156,7 +156,7 @@ The notebook compares outbreaks across multiple locations and answers analytical
 
 ---
 
-## ⭐ Bonus Challenge
+##  Bonus Challenge
 
 The project concludes with a bonus challenge that analyses another disease outbreak using a completely different dataset.
 
@@ -168,7 +168,7 @@ This demonstrates code reusability and reinforces Python programming concepts.
 
 ---
 
-# 🚀 Running the Project
+#  Running the Project
 
 Clone the repository
 
@@ -202,7 +202,7 @@ Disease_Outbreak_Tracker.ipynb
 
 ---
 
-# 🎯 Skills Demonstrated
+#  Skills Demonstrated
 
 This project demonstrates:
 
@@ -218,7 +218,7 @@ This project demonstrates:
 
 ---
 
-# 🚀 Future Improvements
+#  Future Improvements
 
 Potential enhancements include:
 
@@ -239,10 +239,10 @@ Public Health Professional • Data Analyst • Python Developer
 
 GitHub: https://github.com/YOUR_USERNAME
 
-LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+LinkedIn: https://linkedin.com/in/somtochukwu-chukwuemeka-57b690268
 
 ---
 
-# ⭐ If you found this project helpful, please give it a star!
+# If you found this project helpful, please give it a star!
 
 It encourages me to continue building more data analytics and public health projects.
