@@ -1,4 +1,8 @@
 # Disease Outbreak Tracker using Python
+<p align="center">
+<img src="./screenshots/final-report.png" width="700">
+</p>
+
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python">
@@ -170,36 +174,23 @@ This demonstrates code reusability and reinforces Python programming concepts.
 
 #  Running the Project
 
-Clone the repository
+# How to View the Project
+
+There are two ways to explore this project:
+
+### Option 1 (Recommended)
+
+Browse the notebook directly on GitHub.
+
+### Option 2
+
+Clone the repository and open the notebook locally.
 
 ```bash
-git clone https://github.com/yourusername/Disease-Outbreak-Tracker-Python.git
-```
-
-Move into the project directory
-
-```bash
+git clone https://github.com/Promise-Steve/Disease-Outbreak-Tracker-Python.git
 cd Disease-Outbreak-Tracker-Python
-```
-
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-Launch Jupyter Notebook
-
-```bash
 jupyter notebook
 ```
-
-Open
-
-```
-Disease_Outbreak_Tracker.ipynb
-```
-
 ---
 
 #  Skills Demonstrated
@@ -231,13 +222,13 @@ Potential enhancements include:
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 **Somtochukwu Promise Chukwuemeka**
 
 Public Health Professional • Data Analyst • Python Developer
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/Promise-Steve
 
 LinkedIn: https://linkedin.com/in/somtochukwu-chukwuemeka-57b690268
 
