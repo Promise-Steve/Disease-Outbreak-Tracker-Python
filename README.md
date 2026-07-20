@@ -92,7 +92,7 @@ Active Cases = Total Cases − Recovered Patients − Deaths
 ```
 
 <p align="center">
-<img src="./screenshots/Active-cases.png" width="900">
+<img src="./screenshots/Active_cases.png" width="900">
 </p>
 
 ---
