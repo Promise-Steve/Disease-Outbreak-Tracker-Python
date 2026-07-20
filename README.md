@@ -9,6 +9,7 @@
 ---
 
 ## Project Overview
+![Project Overview](screenshots/project-overview.png)
 
 Disease surveillance plays a critical role in public health by enabling health professionals to monitor disease trends and make timely intervention decisions. This project demonstrates how Python can be applied to basic outbreak monitoring through the calculation of active cases, recovery rates, outbreak severity, and emergency response indicators.
 
